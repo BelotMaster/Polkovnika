@@ -2,6 +2,6 @@
 #include<iostream>
 using namespace std;
 int main () { 
-    cout << "2 leva";
+    cout << "2 leva i 2 st";
 return 0;
 }
